@@ -75,6 +75,7 @@ user:
   has_logged: ようこそ
   info: プロフィール
   logout: ログアウト
+  console: コントロールパネル
 
 icon_alt:
   wechat: WeChat 公式アカウント

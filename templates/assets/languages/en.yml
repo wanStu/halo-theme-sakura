@@ -75,6 +75,7 @@ user:
   has_logged: current logged in
   info: user info
   logout: logout
+  console: console
 
 icon_alt:
   wechat: Wechat

@@ -109,6 +109,9 @@
               </h1>
               <!--/* logo end */-->
             </div>
+            <div th:if="${theme.config.general.top_search}" class="searchbox">
+              <i class="iconfont js-toggle-search iconsearch icon-search"></i>
+            </div>
             <!--/* .site-branding */-->
             <div 
               class="header-user-avatar" 
@@ -133,9 +136,6 @@
                   </div>
                 </th:block>
               </div>
-            </div>
-            <div th:if="${theme.config.general.top_search}" class="searchbox">
-              <i class="iconfont js-toggle-search iconsearch icon-search"></i>
             </div>
             <div class="lower-cantiner">
               <div class="lower">
