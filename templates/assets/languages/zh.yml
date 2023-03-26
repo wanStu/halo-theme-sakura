@@ -75,6 +75,7 @@ user:
   has_logged: 当前已登录
   info: 个人资料
   logout: 退出登录
+  console: 控制台
 
 icon_alt:
   wechat: 微信公众号
